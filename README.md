@@ -1,3 +1,11 @@
+# Eri's UT5 fork
+My personal fork of UT5 for PAYDAY 2. 
+
+## Why not just use UT6?
+Some people including myself prefer UT5 over UT6 for its ingame menu, as when you play the Windows version under Proton on Linux, running an entire NodeJS server can be complicated and too much of a hassle.
+
+- the original UT5 readme continues below
+
 > :warning: This mod is **OUDATED!**<br>
 > Download [**PAYDAY 2 - Ultimate Trainer 6**](https://github.com/pierre-josselin/payday-2-ultimate-trainer-6) instead, a revolutionary mod!
 
